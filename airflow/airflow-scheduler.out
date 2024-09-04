@@ -1,0 +1,11 @@
+[2024-09-01T05:20:10.993+0000] {executor_loader.py:254} INFO - Loaded executor: SequentialExecutor
+[2024-09-01T05:20:11.051+0000] {scheduler_job_runner.py:935} INFO - Starting the scheduler
+[2024-09-01T05:20:11.052+0000] {scheduler_job_runner.py:942} INFO - Processing each file at most -1 times
+[2024-09-01T05:20:11.058+0000] {manager.py:174} INFO - Launched DagFileProcessorManager with pid: 4839
+[2024-09-01T05:20:11.062+0000] {scheduler_job_runner.py:1843} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-09-01T05:20:11.070+0000] {settings.py:63} INFO - Configured default timezone UTC
+[2024-09-01T05:20:11.111+0000] {manager.py:406} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1.
+[2024-09-01T05:25:11.137+0000] {scheduler_job_runner.py:1843} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-09-01T05:30:11.170+0000] {scheduler_job_runner.py:1843} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-09-01T05:35:11.970+0000] {scheduler_job_runner.py:1843} INFO - Adopting or resetting orphaned tasks for active dag runs
+[2024-09-01T05:35:27.360+0000] {scheduler_job_runner.py:260} INFO - Exiting gracefully upon receiving signal 15

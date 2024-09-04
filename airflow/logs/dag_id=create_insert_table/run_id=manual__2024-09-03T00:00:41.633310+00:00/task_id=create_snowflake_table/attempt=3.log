@@ -1,0 +1,49 @@
+[2024-09-03T02:57:46.782+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-03T02:57:46.791+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: create_insert_table.create_snowflake_table manual__2024-09-03T00:00:41.633310+00:00 [queued]>
+[2024-09-03T02:57:46.796+0000] {taskinstance.py:2603} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: create_insert_table.create_snowflake_table manual__2024-09-03T00:00:41.633310+00:00 [queued]>
+[2024-09-03T02:57:46.797+0000] {taskinstance.py:2856} INFO - Starting attempt 3 of 3
+[2024-09-03T02:57:46.814+0000] {taskinstance.py:2879} INFO - Executing <Task(SnowflakeOperator): create_snowflake_table> on 2024-09-03 00:00:41.633310+00:00
+[2024-09-03T02:57:46.821+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=8217) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-09-03T02:57:46.821+0000] {standard_task_runner.py:72} INFO - Started process 8246 to run task
+[2024-09-03T02:57:46.822+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'create_insert_table', 'create_snowflake_table', 'manual__2024-09-03T00:00:41.633310+00:00', '--job-id', '56', '--raw', '--subdir', 'DAGS_FOLDER/snow_yml.py', '--cfg-path', '/tmp/tmpubttr2i1']
+[2024-09-03T02:57:46.825+0000] {standard_task_runner.py:105} INFO - Job 56: Subtask create_snowflake_table
+[2024-09-03T02:57:46.873+0000] {task_command.py:467} INFO - Running <TaskInstance: create_insert_table.create_snowflake_table manual__2024-09-03T00:00:41.633310+00:00 [running]> on host ip-172-31-84-185.ec2.internal
+[2024-09-03T02:57:46.927+0000] {taskinstance.py:3122} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='myemail@domain.com' AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='create_insert_table' AIRFLOW_CTX_TASK_ID='create_snowflake_table' AIRFLOW_CTX_EXECUTION_DATE='2024-09-03T00:00:41.633310+00:00' AIRFLOW_CTX_TRY_NUMBER='3' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-09-03T00:00:41.633310+00:00'
+[2024-09-03T02:57:46.927+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-03T02:57:46.940+0000] {sql.py:266} INFO - Executing: 
+            CREATE TABLE IF NOT EXISTS student_info(
+                student_id INTEGER NOT NULL,
+                fname VARCHAR(255) NOT NULL,
+                lname VARCHAR(255) NOT NULL,
+                email VARCHAR(300) NOT NULL UNIQUE,
+                subject VARCHAR(255) NOT NULL,
+                score NUMERIC NOT NULL DEFAULT 0	
+            )
+        
+[2024-09-03T02:57:46.945+0000] {base.py:84} INFO - Retrieving connection 'conn_id_snowflake'
+[2024-09-03T02:57:46.965+0000] {base.py:84} INFO - Retrieving connection 'conn_id_snowflake'
+[2024-09-03T02:57:46.966+0000] {connection.py:413} INFO - Snowflake Connector for Python Version: 3.12.1, Python Version: 3.12.3, Platform: Linux-6.8.0-1014-aws-x86_64-with-glibc2.39
+[2024-09-03T02:57:46.967+0000] {connection.py:1196} INFO - Connecting to GLOBAL Snowflake domain
+[2024-09-03T02:57:46.967+0000] {connection.py:1277} INFO - This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2024-09-03T02:57:47.207+0000] {cursor.py:1156} INFO - Number of results in first chunk: 1
+[2024-09-03T02:57:47.207+0000] {sql.py:509} INFO - Running statement: CREATE TABLE IF NOT EXISTS student_info(
+                student_id INTEGER NOT NULL,
+                fname VARCHAR(255) NOT NULL,
+                lname VARCHAR(255) NOT NULL,
+                email VARCHAR(300) NOT NULL UNIQUE,
+                subject VARCHAR(255) NOT NULL,
+                score NUMERIC NOT NULL DEFAULT 0	
+            ), parameters: None
+[2024-09-03T02:57:47.275+0000] {cursor.py:1156} INFO - Number of results in first chunk: 1
+[2024-09-03T02:57:47.276+0000] {sql.py:518} INFO - Rows affected: 1
+[2024-09-03T02:57:47.277+0000] {snowflake.py:422} INFO - Rows affected: 1
+[2024-09-03T02:57:47.277+0000] {snowflake.py:423} INFO - Snowflake query id: 01b6c651-0109-e3cf-0000-00085e6fc049
+[2024-09-03T02:57:47.343+0000] {cursor.py:1156} INFO - Number of results in first chunk: 1
+[2024-09-03T02:57:47.343+0000] {connection.py:788} INFO - closed
+[2024-09-03T02:57:47.362+0000] {connection.py:794} INFO - No async queries seem to be running, deleting session
+[2024-09-03T02:57:47.401+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-09-03T02:57:47.401+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=create_insert_table, task_id=create_snowflake_table, run_id=manual__2024-09-03T00:00:41.633310+00:00, execution_date=20240903T000041, start_date=20240903T025746, end_date=20240903T025747
+[2024-09-03T02:57:47.442+0000] {local_task_job_runner.py:261} INFO - Task exited with return code 0
+[2024-09-03T02:57:47.449+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/airflow/models/baseoperator.py:1378 AirflowProviderDeprecationWarning: Call to deprecated class SnowflakeOperator. (This class is deprecated. Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`. Also, you can provide `hook_params={'warehouse': <warehouse>, 'database': <database>, 'role': <role>, 'schema': <schema>, 'authenticator': <authenticator>,'session_parameters': <session_parameters>}`.)
+[2024-09-03T02:57:47.458+0000] {taskinstance.py:3891} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-09-03T02:57:47.468+0000] {local_task_job_runner.py:240} INFO - ::endgroup::

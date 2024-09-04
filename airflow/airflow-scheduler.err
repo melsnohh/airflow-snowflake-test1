@@ -1,0 +1,9 @@
+[2024-09-01 05:20:11 +0000] [4837] [INFO] Starting gunicorn 23.0.0
+[2024-09-01 05:20:11 +0000] [4837] [INFO] Listening at: http://[::]:8793 (4837)
+[2024-09-01 05:20:11 +0000] [4837] [INFO] Using worker: sync
+[2024-09-01 05:20:11 +0000] [4838] [INFO] Booting worker with pid: 4838
+[2024-09-01 05:20:11 +0000] [4840] [INFO] Booting worker with pid: 4840
+[2024-09-01 05:26:20 +0000] [4837] [INFO] Handling signal: term
+[2024-09-01 05:26:20 +0000] [4838] [INFO] Worker exiting (pid: 4838)
+[2024-09-01 05:26:20 +0000] [4840] [INFO] Worker exiting (pid: 4840)
+[2024-09-01 05:26:21 +0000] [4837] [INFO] Shutting down: Master

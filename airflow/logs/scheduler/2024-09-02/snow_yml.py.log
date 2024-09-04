@@ -1,0 +1,856 @@
+[2024-09-02T22:53:50.712+0000] {processor.py:186} INFO - Started process (PID=1468) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:53:50.713+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T22:53:50.715+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:53:50.714+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:53:53.437+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T22:53:53.440+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:53:53.461+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:53:53.460+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T22:53:53.479+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:53:53.478+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T22:53:53.506+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 2.798 seconds
+[2024-09-02T22:54:23.881+0000] {processor.py:186} INFO - Started process (PID=1590) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:54:23.882+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T22:54:23.885+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:54:23.884+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:54:24.513+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T22:54:24.516+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:54:24.530+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:54:24.529+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T22:54:24.546+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:54:24.546+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T22:54:24.565+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.690 seconds
+[2024-09-02T22:54:55.142+0000] {processor.py:186} INFO - Started process (PID=1774) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:54:55.144+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T22:54:55.146+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:54:55.146+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:54:55.751+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T22:54:55.754+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:54:55.764+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:54:55.764+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T22:54:55.777+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:54:55.777+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T22:54:55.796+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.659 seconds
+[2024-09-02T22:55:26.290+0000] {processor.py:186} INFO - Started process (PID=1903) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:55:26.291+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T22:55:26.293+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:55:26.293+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:55:26.918+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T22:55:26.921+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T22:55:26.934+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:55:26.934+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T22:55:26.951+0000] {logging_mixin.py:190} INFO - [2024-09-02T22:55:26.950+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T22:55:26.972+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.688 seconds
+[2024-09-02T23:06:13.446+0000] {processor.py:186} INFO - Started process (PID=2829) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:06:13.450+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:06:13.452+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:06:13.451+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:06:14.157+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:06:14.160+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:06:14.242+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:06:14.241+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:06:14.258+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:06:14.258+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:06:14.285+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.843 seconds
+[2024-09-02T23:06:44.648+0000] {processor.py:186} INFO - Started process (PID=2905) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:06:44.652+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:06:44.654+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:06:44.653+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:06:45.277+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:06:45.281+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:06:45.295+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:06:45.294+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:06:45.312+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:06:45.312+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:06:45.330+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.687 seconds
+[2024-09-02T23:07:15.925+0000] {processor.py:186} INFO - Started process (PID=2957) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:07:15.929+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:07:15.931+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:07:15.930+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:07:16.544+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:07:16.548+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:07:16.563+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:07:16.563+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:07:16.580+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:07:16.580+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:07:16.600+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.679 seconds
+[2024-09-02T23:07:47.200+0000] {processor.py:186} INFO - Started process (PID=2961) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:07:47.201+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:07:47.203+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:07:47.203+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:07:47.822+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:07:47.825+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:07:47.840+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:07:47.840+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:07:47.856+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:07:47.856+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:07:47.876+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.681 seconds
+[2024-09-02T23:08:18.474+0000] {processor.py:186} INFO - Started process (PID=3012) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:08:18.476+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:08:18.478+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:08:18.477+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:08:19.116+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:08:19.119+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:08:19.133+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:08:19.132+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:08:19.148+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:08:19.148+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:08:19.171+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.702 seconds
+[2024-09-02T23:08:49.736+0000] {processor.py:186} INFO - Started process (PID=3061) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:08:49.738+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:08:49.740+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:08:49.739+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:08:50.360+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:08:50.363+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:08:50.376+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:08:50.376+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:08:50.392+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:08:50.392+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:08:50.416+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.686 seconds
+[2024-09-02T23:09:20.677+0000] {processor.py:186} INFO - Started process (PID=3110) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:09:20.678+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:09:20.680+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:09:20.679+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:09:21.304+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:09:21.307+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:09:21.320+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:09:21.320+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:09:21.336+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:09:21.336+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:09:21.358+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.686 seconds
+[2024-09-02T23:09:51.622+0000] {processor.py:186} INFO - Started process (PID=3114) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:09:51.624+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:09:51.626+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:09:51.626+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:09:52.252+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:09:52.256+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:09:52.270+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:09:52.269+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:09:52.286+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:09:52.286+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:09:52.306+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.689 seconds
+[2024-09-02T23:10:22.571+0000] {processor.py:186} INFO - Started process (PID=3169) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:10:22.572+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:10:22.574+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:10:22.574+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:10:23.214+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:10:23.217+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:10:23.231+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:10:23.231+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:10:23.247+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:10:23.247+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:10:23.265+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.699 seconds
+[2024-09-02T23:10:53.523+0000] {processor.py:186} INFO - Started process (PID=3174) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:10:53.525+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:10:53.527+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:10:53.527+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:10:54.162+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:10:54.165+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:10:54.179+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:10:54.179+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:10:54.195+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:10:54.195+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:10:54.212+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.695 seconds
+[2024-09-02T23:11:24.350+0000] {processor.py:186} INFO - Started process (PID=3268) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:11:24.352+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:11:24.354+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:11:24.354+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:11:24.968+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:11:24.971+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:11:24.985+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:11:24.985+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:11:25.003+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:11:25.002+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:11:25.022+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.678 seconds
+[2024-09-02T23:11:55.156+0000] {processor.py:186} INFO - Started process (PID=3272) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:11:55.157+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:11:55.159+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:11:55.158+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:11:55.762+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:11:55.766+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:11:55.780+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:11:55.780+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:11:55.796+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:11:55.796+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:11:55.815+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.664 seconds
+[2024-09-02T23:12:25.963+0000] {processor.py:186} INFO - Started process (PID=3322) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:12:25.964+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:12:25.965+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:12:25.965+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:12:26.592+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:12:26.596+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:12:26.612+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:12:26.611+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:12:26.627+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:12:26.627+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:12:26.648+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.690 seconds
+[2024-09-02T23:12:56.776+0000] {processor.py:186} INFO - Started process (PID=3326) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:12:56.777+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:12:56.779+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:12:56.779+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:12:57.403+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:12:57.406+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:12:57.420+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:12:57.419+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:12:57.435+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:12:57.435+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:12:57.466+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.696 seconds
+[2024-09-02T23:13:27.588+0000] {processor.py:186} INFO - Started process (PID=3414) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:13:27.588+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:13:27.591+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:13:27.590+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:13:28.212+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:13:28.215+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:13:28.228+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:13:28.228+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:13:28.244+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:13:28.244+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:13:28.268+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.685 seconds
+[2024-09-02T23:13:58.395+0000] {processor.py:186} INFO - Started process (PID=3419) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:13:58.397+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:13:58.399+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:13:58.399+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:13:59.024+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:13:59.028+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:13:59.042+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:13:59.042+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:13:59.058+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:13:59.058+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:13:59.082+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.693 seconds
+[2024-09-02T23:14:29.204+0000] {processor.py:186} INFO - Started process (PID=3469) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:14:29.206+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:14:29.207+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:14:29.207+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:14:29.842+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:14:29.845+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:14:29.860+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:14:29.859+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:14:29.876+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:14:29.875+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:14:29.892+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.693 seconds
+[2024-09-02T23:14:59.987+0000] {processor.py:186} INFO - Started process (PID=3473) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:14:59.990+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:14:59.992+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:14:59.991+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:15:00.628+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:15:00.632+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:15:00.647+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:15:00.646+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:15:00.663+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:15:00.663+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:15:00.683+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.701 seconds
+[2024-09-02T23:15:30.871+0000] {processor.py:186} INFO - Started process (PID=3525) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:15:30.873+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:15:30.874+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:15:30.874+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:15:31.492+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:15:31.496+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:15:31.509+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:15:31.509+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:15:31.526+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:15:31.526+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:15:31.546+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.680 seconds
+[2024-09-02T23:16:01.649+0000] {processor.py:186} INFO - Started process (PID=3529) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:16:01.652+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:16:01.654+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:16:01.654+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:16:02.311+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:16:02.315+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:16:02.331+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:16:02.331+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:16:02.347+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:16:02.347+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:16:02.368+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.724 seconds
+[2024-09-02T23:16:32.527+0000] {processor.py:186} INFO - Started process (PID=3624) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:16:32.528+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:16:32.530+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:16:32.530+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:16:33.174+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:16:33.177+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:16:33.192+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:16:33.192+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:16:33.208+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:16:33.208+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:16:33.227+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.705 seconds
+[2024-09-02T23:17:03.404+0000] {processor.py:186} INFO - Started process (PID=3752) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:17:03.406+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:17:03.408+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:17:03.407+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:17:04.067+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:17:04.070+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:17:04.084+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:17:04.084+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:17:04.100+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:17:04.100+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:17:04.122+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.723 seconds
+[2024-09-02T23:17:34.287+0000] {processor.py:186} INFO - Started process (PID=3801) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:17:34.291+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:17:34.293+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:17:34.292+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:17:34.945+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:17:34.948+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:17:34.963+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:17:34.963+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:17:34.979+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:17:34.979+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:17:34.999+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.717 seconds
+[2024-09-02T23:18:05.164+0000] {processor.py:186} INFO - Started process (PID=3809) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:18:05.165+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:18:05.167+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:18:05.167+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:18:05.827+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:18:05.831+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:18:05.844+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:18:05.844+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:18:05.862+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:18:05.861+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:18:05.885+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.726 seconds
+[2024-09-02T23:18:36.043+0000] {processor.py:186} INFO - Started process (PID=3858) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:18:36.046+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:18:36.048+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:18:36.048+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:18:36.699+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:18:36.703+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:18:36.716+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:18:36.716+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:18:36.733+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:18:36.733+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:18:36.753+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.715 seconds
+[2024-09-02T23:19:06.920+0000] {processor.py:186} INFO - Started process (PID=3862) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:19:06.921+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:19:06.923+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:19:06.923+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:19:07.583+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:19:07.586+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:19:07.600+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:19:07.600+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:19:07.617+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:19:07.617+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:19:07.636+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.721 seconds
+[2024-09-02T23:19:37.793+0000] {processor.py:186} INFO - Started process (PID=3911) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:19:37.795+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:19:37.798+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:19:37.797+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:19:38.448+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:19:38.451+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:19:38.465+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:19:38.464+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:19:38.482+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:19:38.482+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:19:38.502+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.715 seconds
+[2024-09-02T23:20:08.669+0000] {processor.py:186} INFO - Started process (PID=3919) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:20:08.670+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:20:08.672+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:20:08.672+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:20:09.328+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:20:09.331+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:20:09.345+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:20:09.345+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:20:09.362+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:20:09.362+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:20:09.380+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.716 seconds
+[2024-09-02T23:20:39.551+0000] {processor.py:186} INFO - Started process (PID=3968) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:20:39.553+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:20:39.555+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:20:39.555+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:20:40.217+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:20:40.220+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:20:40.235+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:20:40.235+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:20:40.251+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:20:40.251+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:20:40.270+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.724 seconds
+[2024-09-02T23:21:10.430+0000] {processor.py:186} INFO - Started process (PID=3973) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:21:10.431+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:21:10.432+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:21:10.432+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:21:11.105+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:21:11.108+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:21:11.123+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:21:11.123+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:21:11.139+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:21:11.139+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:21:11.156+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.733 seconds
+[2024-09-02T23:21:41.308+0000] {processor.py:186} INFO - Started process (PID=4067) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:21:41.309+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:21:41.311+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:21:41.310+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:21:41.984+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:21:41.987+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:21:42.002+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:21:42.000+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:21:42.016+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:21:42.016+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:21:42.038+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.736 seconds
+[2024-09-02T23:22:12.184+0000] {processor.py:186} INFO - Started process (PID=4072) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:22:12.185+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:22:12.188+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:22:12.187+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:22:12.872+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:22:12.875+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:22:12.890+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:22:12.889+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:22:12.905+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:22:12.905+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:22:12.925+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.746 seconds
+[2024-09-02T23:22:43.064+0000] {processor.py:186} INFO - Started process (PID=4121) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:22:43.066+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:22:43.068+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:22:43.067+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:22:43.735+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:22:43.738+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:22:43.752+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:22:43.751+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:22:43.767+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:22:43.767+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:22:43.889+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.830 seconds
+[2024-09-02T23:23:14.038+0000] {processor.py:186} INFO - Started process (PID=4128) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:23:14.040+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:23:14.043+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:23:14.043+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:23:14.723+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:23:14.728+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:23:14.743+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:23:14.743+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:23:14.857+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:23:14.856+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:23:14.876+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.842 seconds
+[2024-09-02T23:23:45.015+0000] {processor.py:186} INFO - Started process (PID=4177) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:23:45.017+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:23:45.019+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:23:45.019+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:23:45.623+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:23:45.627+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:23:45.641+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:23:45.640+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:23:45.760+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:23:45.760+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:23:45.779+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.769 seconds
+[2024-09-02T23:24:15.891+0000] {processor.py:186} INFO - Started process (PID=4226) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:24:15.892+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:24:15.894+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:24:15.894+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:24:16.500+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:24:16.505+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:24:16.519+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:24:16.519+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:24:16.642+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:24:16.642+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:24:16.662+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.776 seconds
+[2024-09-02T23:24:46.768+0000] {processor.py:186} INFO - Started process (PID=4230) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:24:46.771+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:24:46.773+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:24:46.772+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:24:47.367+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:24:47.370+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:24:47.480+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:24:47.479+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:24:47.496+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:24:47.495+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:24:47.515+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.752 seconds
+[2024-09-02T23:25:17.645+0000] {processor.py:186} INFO - Started process (PID=4283) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:25:17.646+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:25:17.648+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:25:17.648+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:25:18.279+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:25:18.283+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:25:18.406+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:25:18.405+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:25:18.422+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:25:18.422+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:25:18.442+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.802 seconds
+[2024-09-02T23:25:48.624+0000] {processor.py:186} INFO - Started process (PID=4291) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:25:48.625+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:25:48.742+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:25:48.742+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:25:49.327+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:25:49.331+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:25:49.344+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:25:49.344+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:25:49.360+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:25:49.360+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:25:49.381+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.762 seconds
+[2024-09-02T23:26:19.506+0000] {processor.py:186} INFO - Started process (PID=4341) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:26:19.506+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:26:19.508+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:26:19.508+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:26:20.157+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:26:20.160+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:26:20.175+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:26:20.175+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:26:20.192+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:26:20.191+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:26:20.211+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.712 seconds
+[2024-09-02T23:26:50.384+0000] {processor.py:186} INFO - Started process (PID=4390) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:26:50.386+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:26:50.387+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:26:50.387+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:26:51.031+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:26:51.035+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:26:51.049+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:26:51.048+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:26:51.067+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:26:51.067+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:26:51.086+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.707 seconds
+[2024-09-02T23:27:21.261+0000] {processor.py:186} INFO - Started process (PID=4440) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:27:21.263+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:27:21.265+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:27:21.265+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:27:21.891+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:27:21.895+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:27:21.908+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:27:21.907+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:27:21.924+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:27:21.923+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:27:21.945+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.691 seconds
+[2024-09-02T23:27:52.040+0000] {processor.py:186} INFO - Started process (PID=4444) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:27:52.041+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:27:52.044+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:27:52.043+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:27:52.677+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:27:52.680+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:27:52.695+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:27:52.695+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:27:52.711+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:27:52.710+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:27:52.730+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.695 seconds
+[2024-09-02T23:28:22.824+0000] {processor.py:186} INFO - Started process (PID=4493) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:28:22.825+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:28:22.826+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:28:22.826+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:28:23.455+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:28:23.458+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:28:23.472+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:28:23.472+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:28:23.488+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:28:23.488+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:28:23.507+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.689 seconds
+[2024-09-02T23:28:53.600+0000] {processor.py:186} INFO - Started process (PID=4498) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:28:53.602+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:28:53.604+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:28:53.603+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:28:54.239+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:28:54.244+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:28:54.257+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:28:54.256+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:28:54.271+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:28:54.271+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:28:54.292+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.697 seconds
+[2024-09-02T23:29:24.388+0000] {processor.py:186} INFO - Started process (PID=4547) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:29:24.390+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:29:24.391+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:29:24.391+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:29:25.015+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:29:25.019+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:29:25.032+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:29:25.032+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:29:25.048+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:29:25.048+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:29:25.068+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.686 seconds
+[2024-09-02T23:29:55.165+0000] {processor.py:186} INFO - Started process (PID=4551) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:29:55.166+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:29:55.168+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:29:55.168+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:29:55.815+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:29:55.817+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:29:55.831+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:29:55.831+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:29:55.847+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:29:55.847+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:29:55.867+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.708 seconds
+[2024-09-02T23:30:26.045+0000] {processor.py:186} INFO - Started process (PID=4605) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:30:26.048+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:30:26.050+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:30:26.049+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:30:26.678+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:30:26.681+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:30:26.695+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:30:26.695+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:30:26.712+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:30:26.711+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:30:26.731+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.692 seconds
+[2024-09-02T23:30:56.824+0000] {processor.py:186} INFO - Started process (PID=4609) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:30:56.827+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:30:56.828+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:30:56.828+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:30:57.467+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:30:57.470+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:30:57.484+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:30:57.483+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:30:57.501+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:30:57.500+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:30:57.522+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.703 seconds
+[2024-09-02T23:31:27.699+0000] {processor.py:186} INFO - Started process (PID=4703) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:31:27.702+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:31:27.704+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:31:27.704+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:31:28.336+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:31:28.340+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:31:28.353+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:31:28.353+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:31:28.369+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:31:28.369+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:31:28.389+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.695 seconds
+[2024-09-02T23:31:58.483+0000] {processor.py:186} INFO - Started process (PID=4708) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:31:58.486+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:31:58.487+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:31:58.487+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:31:59.152+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:31:59.156+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:31:59.172+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:31:59.171+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:31:59.187+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:31:59.187+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:31:59.207+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.729 seconds
+[2024-09-02T23:32:29.360+0000] {processor.py:186} INFO - Started process (PID=4758) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:32:29.362+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:32:29.366+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:32:29.364+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:32:29.993+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:32:29.996+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:32:30.011+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:32:30.011+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:32:30.027+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:32:30.027+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:32:30.046+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.691 seconds
+[2024-09-02T23:33:00.139+0000] {processor.py:186} INFO - Started process (PID=4762) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:33:00.140+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:33:00.142+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:33:00.142+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:33:00.791+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:33:00.795+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:33:00.808+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:33:00.808+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:33:00.824+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:33:00.824+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:33:00.847+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.712 seconds
+[2024-09-02T23:33:31.017+0000] {processor.py:186} INFO - Started process (PID=4811) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:33:31.020+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:33:31.021+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:33:31.021+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:33:31.646+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:33:31.650+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:33:31.663+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:33:31.663+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:33:31.679+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:33:31.678+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:33:31.698+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.687 seconds
+[2024-09-02T23:34:01.800+0000] {processor.py:186} INFO - Started process (PID=4815) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:34:01.802+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:34:01.804+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:34:01.804+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:34:02.474+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:34:02.477+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:34:02.492+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:34:02.491+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:34:02.508+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:34:02.508+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:34:02.531+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.735 seconds
+[2024-09-02T23:34:32.680+0000] {processor.py:186} INFO - Started process (PID=4864) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:34:32.683+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:34:32.684+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:34:32.684+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:34:33.326+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:34:33.329+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:34:33.343+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:34:33.343+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:34:33.360+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:34:33.360+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:34:33.380+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.705 seconds
+[2024-09-02T23:35:03.557+0000] {processor.py:186} INFO - Started process (PID=4872) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:35:03.558+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:35:03.561+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:35:03.560+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:35:04.242+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:35:04.245+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:35:04.260+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:35:04.260+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:35:04.278+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:35:04.277+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:35:04.299+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.747 seconds
+[2024-09-02T23:35:34.436+0000] {processor.py:186} INFO - Started process (PID=4923) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:35:34.438+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:35:34.439+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:35:34.439+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:35:35.068+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:35:35.071+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:35:35.084+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:35:35.084+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:35:35.102+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:35:35.102+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:35:35.125+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.695 seconds
+[2024-09-02T23:36:05.219+0000] {processor.py:186} INFO - Started process (PID=4927) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:36:05.220+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:36:05.221+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:36:05.221+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:36:05.860+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:36:05.864+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:36:05.878+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:36:05.876+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:36:05.894+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:36:05.894+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-01 00:00:00+00:00, run_after=2024-09-02 00:00:00+00:00
+[2024-09-02T23:36:05.915+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.700 seconds
+[2024-09-02T23:36:36.780+0000] {processor.py:186} INFO - Started process (PID=5083) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:36:36.783+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:36:36.785+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:36:36.784+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:36:37.423+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:36:37.426+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:36:37.442+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:36:37.441+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:36:37.458+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:36:37.458+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:36:37.478+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.703 seconds
+[2024-09-02T23:37:08.166+0000] {processor.py:186} INFO - Started process (PID=5087) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:37:08.167+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:37:08.170+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:37:08.169+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:37:08.824+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:37:08.827+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:37:08.842+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:37:08.842+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:37:08.858+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:37:08.858+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:37:08.876+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.715 seconds
+[2024-09-02T23:37:39.395+0000] {processor.py:186} INFO - Started process (PID=5136) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:37:39.398+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:37:39.399+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:37:39.399+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:37:40.035+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:37:40.039+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:37:40.052+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:37:40.052+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:37:40.068+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:37:40.068+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:37:40.092+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.702 seconds
+[2024-09-02T23:38:13.455+0000] {processor.py:186} INFO - Started process (PID=5192) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:38:13.457+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:38:13.459+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:38:13.459+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:38:14.099+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:38:14.102+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:38:14.116+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:38:14.115+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:38:14.131+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:38:14.131+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:38:14.154+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.704 seconds
+[2024-09-02T23:38:44.808+0000] {processor.py:186} INFO - Started process (PID=5292) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:38:44.808+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:38:44.811+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:38:44.811+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:38:45.442+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:38:45.446+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:38:45.460+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:38:45.459+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:38:45.477+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:38:45.476+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:38:45.498+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.695 seconds
+[2024-09-02T23:39:16.211+0000] {processor.py:186} INFO - Started process (PID=5411) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:39:16.213+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:39:16.215+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:39:16.214+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:39:16.846+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:39:16.849+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:39:16.863+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:39:16.863+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:39:16.880+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:39:16.880+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:39:16.902+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.696 seconds
+[2024-09-02T23:39:47.606+0000] {processor.py:186} INFO - Started process (PID=5441) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:39:47.606+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:39:47.609+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:39:47.608+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:39:48.237+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:39:48.240+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:39:48.254+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:39:48.254+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:39:48.271+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:39:48.271+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:39:48.288+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.688 seconds
+[2024-09-02T23:40:21.391+0000] {processor.py:186} INFO - Started process (PID=5557) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:40:21.393+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:40:21.395+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:40:21.394+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:40:22.056+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:40:22.060+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:40:22.075+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:40:22.075+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:40:22.093+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:40:22.093+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:40:22.113+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.727 seconds
+[2024-09-02T23:40:52.518+0000] {processor.py:186} INFO - Started process (PID=5606) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:40:52.519+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:40:52.521+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:40:52.520+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:40:53.155+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:40:53.159+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:40:53.174+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:40:53.172+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:40:53.188+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:40:53.188+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:40:53.208+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.695 seconds
+[2024-09-02T23:41:24.256+0000] {processor.py:186} INFO - Started process (PID=5752) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:41:24.260+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:41:24.262+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:41:24.262+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:41:24.896+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:41:24.899+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:41:24.915+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:41:24.915+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:41:24.931+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:41:24.931+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:41:24.952+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.701 seconds
+[2024-09-02T23:41:55.635+0000] {processor.py:186} INFO - Started process (PID=5758) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:41:55.636+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:41:55.638+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:41:55.638+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:41:56.275+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:41:56.279+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:41:56.291+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:41:56.291+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:41:56.307+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:41:56.307+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:41:56.327+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.697 seconds
+[2024-09-02T23:42:27.136+0000] {processor.py:186} INFO - Started process (PID=5808) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:42:27.138+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:42:27.140+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:42:27.140+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:42:27.784+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:42:27.787+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:42:27.802+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:42:27.802+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:42:27.818+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:42:27.818+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:42:27.839+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.708 seconds
+[2024-09-02T23:42:58.392+0000] {processor.py:186} INFO - Started process (PID=5812) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:42:58.392+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:42:58.395+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:42:58.395+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:42:59.048+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:42:59.052+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:42:59.065+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:42:59.064+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:42:59.082+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:42:59.082+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:42:59.103+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.716 seconds
+[2024-09-02T23:43:29.340+0000] {processor.py:186} INFO - Started process (PID=5912) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:43:29.342+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:43:29.344+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:43:29.343+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:43:29.983+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:43:29.986+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:43:30.000+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:43:29.999+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:43:30.018+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:43:30.017+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:43:30.040+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.705 seconds
+[2024-09-02T23:44:00.604+0000] {processor.py:186} INFO - Started process (PID=5917) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:44:00.606+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:44:00.608+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:44:00.608+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:44:01.258+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:44:01.261+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:44:01.276+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:44:01.276+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:44:01.294+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:44:01.294+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:44:01.320+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.721 seconds
+[2024-09-02T23:44:31.780+0000] {processor.py:186} INFO - Started process (PID=5966) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:44:31.781+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:44:31.783+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:44:31.783+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:44:32.409+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:44:32.412+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:44:32.426+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:44:32.425+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:44:32.443+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:44:32.442+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:44:32.461+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.685 seconds
+[2024-09-02T23:45:02.553+0000] {processor.py:186} INFO - Started process (PID=6069) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:45:02.554+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:45:02.556+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:45:02.556+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:45:03.199+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:45:03.203+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:45:03.218+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:45:03.218+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:45:03.235+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:45:03.234+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:45:03.255+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.708 seconds
+[2024-09-02T23:45:33.906+0000] {processor.py:186} INFO - Started process (PID=6118) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:45:33.908+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:45:33.910+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:45:33.910+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:45:34.538+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:45:34.542+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:45:34.556+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:45:34.556+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:45:34.571+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:45:34.571+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:45:34.590+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.689 seconds
+[2024-09-02T23:46:05.107+0000] {processor.py:186} INFO - Started process (PID=6122) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:46:05.108+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:46:05.111+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:46:05.111+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:46:05.751+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:46:05.755+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:46:05.770+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:46:05.770+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:46:05.786+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:46:05.786+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:46:05.804+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.703 seconds
+[2024-09-02T23:46:36.208+0000] {processor.py:186} INFO - Started process (PID=6216) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:46:36.210+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:46:36.212+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:46:36.211+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:46:36.747+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:46:36.751+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:46:36.764+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:46:36.763+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:46:36.780+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:46:36.780+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:46:36.801+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.597 seconds
+[2024-09-02T23:47:06.916+0000] {processor.py:186} INFO - Started process (PID=6318) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:47:06.917+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:47:06.919+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:47:06.918+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:47:07.579+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:47:07.582+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:47:07.596+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:47:07.595+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:47:07.612+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:47:07.611+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:47:07.634+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.723 seconds
+[2024-09-02T23:47:38.124+0000] {processor.py:186} INFO - Started process (PID=6368) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:47:38.126+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:47:38.127+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:47:38.127+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:47:38.781+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:47:38.783+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:47:38.798+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:47:38.798+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:47:38.815+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:47:38.815+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:47:38.838+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.721 seconds
+[2024-09-02T23:48:07.298+0000] {processor.py:186} INFO - Started process (PID=6431) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:48:07.298+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:48:07.300+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:48:07.300+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:48:07.995+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:48:08.000+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:48:08.020+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:48:08.020+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:48:08.048+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:48:08.048+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:48:08.072+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.779 seconds
+[2024-09-02T23:48:38.631+0000] {processor.py:186} INFO - Started process (PID=6532) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:48:38.634+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:48:38.636+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:48:38.635+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:48:39.262+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:48:39.265+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:48:39.278+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:48:39.278+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:48:39.294+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:48:39.294+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:48:39.315+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.688 seconds
+[2024-09-02T23:49:09.503+0000] {processor.py:186} INFO - Started process (PID=6689) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:49:09.503+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:49:09.505+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:49:09.505+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:49:10.136+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:49:10.139+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:49:10.155+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:49:10.155+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:49:10.171+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:49:10.171+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:49:10.190+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.692 seconds
+[2024-09-02T23:49:40.598+0000] {processor.py:186} INFO - Started process (PID=6741) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:49:40.600+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:49:40.602+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:49:40.602+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:49:41.231+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:49:41.235+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:49:41.250+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:49:41.250+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:49:41.266+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:49:41.266+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:49:41.288+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.695 seconds
+[2024-09-02T23:50:11.720+0000] {processor.py:186} INFO - Started process (PID=6795) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:50:11.722+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:50:11.724+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:50:11.723+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:50:12.351+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:50:12.355+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:50:12.369+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:50:12.369+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:50:12.384+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:50:12.384+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:50:12.404+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.688 seconds
+[2024-09-02T23:50:42.664+0000] {processor.py:186} INFO - Started process (PID=6844) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:50:42.666+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:50:42.667+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:50:42.667+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:50:43.286+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:50:43.289+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:50:43.303+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:50:43.303+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:50:43.319+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:50:43.319+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:50:43.337+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.677 seconds
+[2024-09-02T23:51:13.613+0000] {processor.py:186} INFO - Started process (PID=6893) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:51:13.615+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:51:13.618+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:51:13.617+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:51:14.232+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:51:14.236+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:51:14.250+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:51:14.250+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:51:14.265+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:51:14.265+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:51:14.287+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.679 seconds
+[2024-09-02T23:52:15.219+0000] {processor.py:186} INFO - Started process (PID=7005) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:52:15.221+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:52:15.223+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:52:15.222+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:52:15.900+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:52:15.903+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:52:15.917+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:52:15.916+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:52:15.934+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:52:15.934+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:52:15.956+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.742 seconds
+[2024-09-02T23:52:46.403+0000] {processor.py:186} INFO - Started process (PID=7106) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:52:46.404+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:52:46.406+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:52:46.406+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:52:47.024+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:52:47.028+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:52:47.042+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:52:47.041+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:52:47.059+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:52:47.059+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:52:47.079+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.681 seconds
+[2024-09-02T23:53:17.679+0000] {processor.py:186} INFO - Started process (PID=7159) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:53:17.681+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:53:17.683+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:53:17.683+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:53:18.297+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:53:18.300+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:53:18.316+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:53:18.315+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:53:18.332+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:53:18.332+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:53:18.352+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.678 seconds
+[2024-09-02T23:53:48.944+0000] {processor.py:186} INFO - Started process (PID=7164) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:53:48.946+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:53:48.948+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:53:48.947+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:53:49.566+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:53:49.570+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:53:49.584+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:53:49.584+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:53:49.600+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:53:49.600+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:53:49.620+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.681 seconds
+[2024-09-02T23:54:20.212+0000] {processor.py:186} INFO - Started process (PID=7214) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:54:20.214+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:54:20.216+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:54:20.216+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:54:20.835+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:54:20.838+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:54:20.852+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:54:20.852+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:54:20.868+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:54:20.868+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:54:20.888+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.681 seconds
+[2024-09-02T23:54:51.488+0000] {processor.py:186} INFO - Started process (PID=7263) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:54:51.490+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:54:51.492+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:54:51.491+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:54:52.114+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:54:52.117+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:54:52.131+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:54:52.131+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:54:52.148+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:54:52.148+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:54:52.169+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.686 seconds
+[2024-09-02T23:55:22.435+0000] {processor.py:186} INFO - Started process (PID=7316) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:55:22.438+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:55:22.439+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:55:22.439+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:55:23.062+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:55:23.066+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:55:23.079+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:55:23.079+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:55:23.094+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:55:23.094+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:55:23.114+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.683 seconds
+[2024-09-02T23:55:53.395+0000] {processor.py:186} INFO - Started process (PID=7320) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:55:53.397+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:55:53.399+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:55:53.399+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:55:54.035+0000] {logging_mixin.py:190} WARNING - /home/ubuntu/airflow_snow/lib/python3.12/site-packages/snowflake/sqlalchemy/base.py:1068 SAWarning: The GenericFunction 'flatten' is already registered and is going to be overridden.
+[2024-09-02T23:55:54.037+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:55:54.051+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:55:54.051+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:55:54.068+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:55:54.068+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:55:54.088+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.698 seconds
+[2024-09-02T23:56:03.276+0000] {processor.py:186} INFO - Started process (PID=7328) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:56:03.277+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:56:03.280+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:56:03.279+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:56:03.292+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:56:03.385+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:56:03.385+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:56:03.403+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:56:03.402+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:56:03.426+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.155 seconds
+[2024-09-02T23:56:38.409+0000] {processor.py:186} INFO - Started process (PID=7535) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:56:38.411+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:56:38.414+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:56:38.414+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:56:38.426+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:56:38.445+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:56:38.445+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:56:38.466+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:56:38.465+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:56:38.487+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.083 seconds
+[2024-09-02T23:57:08.905+0000] {processor.py:186} INFO - Started process (PID=7735) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:57:08.906+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:57:08.908+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:57:08.908+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:57:08.921+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:57:08.943+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:57:08.943+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:57:08.962+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:57:08.962+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:57:08.982+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.082 seconds
+[2024-09-02T23:57:39.208+0000] {processor.py:186} INFO - Started process (PID=7757) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:57:39.210+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:57:39.212+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:57:39.211+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:57:39.224+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:57:39.247+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:57:39.246+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:57:39.266+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:57:39.265+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:57:39.286+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.082 seconds
+[2024-09-02T23:58:09.534+0000] {processor.py:186} INFO - Started process (PID=7785) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:58:09.535+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:58:09.536+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:58:09.536+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:58:09.550+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:58:09.570+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:58:09.569+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:58:09.588+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:58:09.587+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:58:09.610+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.083 seconds
+[2024-09-02T23:58:39.851+0000] {processor.py:186} INFO - Started process (PID=7831) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:58:39.852+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:58:39.854+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:58:39.854+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:58:39.865+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:58:39.886+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:58:39.885+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:58:39.904+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:58:39.904+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:58:39.924+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.078 seconds
+[2024-09-02T23:59:10.152+0000] {processor.py:186} INFO - Started process (PID=7980) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:59:10.152+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:59:10.155+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:59:10.155+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:59:10.167+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:59:10.187+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:59:10.187+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:59:10.206+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:59:10.206+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:59:10.229+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.082 seconds
+[2024-09-02T23:59:40.944+0000] {processor.py:186} INFO - Started process (PID=8026) to work on /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:59:40.946+0000] {processor.py:914} INFO - Processing file /home/ubuntu/airflow/dags/snow_yml.py for tasks to queue
+[2024-09-02T23:59:40.947+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:59:40.947+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:59:40.959+0000] {processor.py:925} INFO - DAG(s) 'create_insert_table' retrieved from /home/ubuntu/airflow/dags/snow_yml.py
+[2024-09-02T23:59:40.979+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:59:40.979+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-09-02T23:59:40.997+0000] {logging_mixin.py:190} INFO - [2024-09-02T23:59:40.996+0000] {dag.py:4138} INFO - Setting next_dagrun for create_insert_table to 2024-09-02 00:00:00+00:00, run_after=2024-09-03 00:00:00+00:00
+[2024-09-02T23:59:41.018+0000] {processor.py:208} INFO - Processing /home/ubuntu/airflow/dags/snow_yml.py took 0.079 seconds
